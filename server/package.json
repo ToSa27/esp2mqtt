@@ -1,0 +1,19 @@
+{
+  "name": "esp2mqtt_server",
+  "version": "0.1.0",
+  "description": "esp2mqtt build and ota server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToSa27/esp2mqtt.git"
+  },
+  "author": "Tobias Hoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToSa27/esp2mqtt/issues"
+  },
+  "homepage": "https://github.com/ToSa27/esp2mqtt#readme"
+}
